@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <color name="black">#0e1428</color>
+    <color name="red">#cc0000</color>
+    <color name="blue">#333e62</color>
+    <string-array name="level">
+        <item>--Level--</item>
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+    </string-array>
+</resources>
